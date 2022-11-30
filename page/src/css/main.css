@@ -1,0 +1,9 @@
+.row{
+    align-items: left;
+      position: relative;
+      float: left;
+}
+.left{
+    float: left;
+    position: relative;
+}
